@@ -1,2 +1,1 @@
-# notas
-Notas Obsedian
+# minhas_notas
